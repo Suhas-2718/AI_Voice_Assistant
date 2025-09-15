@@ -1,0 +1,12 @@
+# I have added the e.nv file and the virtual environment to gitognore 
+
+# Environment files
+.env
+*.env
+
+# Python files to be ignored from committing
+__pycache__/
+*.pyc
+
+# Virtual environment should be created uniquley, not to be reused.
+venv/
