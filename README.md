@@ -4,6 +4,12 @@ An **AI-driven voice assistant** mobile application that allows users to interac
 
 ---
 
+## MAJOR UPDATE!
+
+Once the Hanashi App is installed Microphone permission has to be manually set in the respective Android device
+
+---
+
 ## Features
 
 - **Text & Voice Input**: Users can type messages or speak directly using the microphone.  
