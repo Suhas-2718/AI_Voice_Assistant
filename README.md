@@ -41,6 +41,7 @@ Once the **Hanashi App** is installed **Microphone permission** has to be manual
 
 ## 📥 Download & Install
 
+On clicking the link the app will get downloaded once "view raw " is clicked
 👉 **[Download APK](App/Hanashi.apk)**  
 
 ### Installation steps:
