@@ -6,7 +6,7 @@ An **AI-driven voice assistant** mobile application that allows users to interac
 
 ## MAJOR UPDATE!
 
-Once the Hanashi App is installed Microphone permission has to be manually set in the respective Android device
+Once the **Hanashi App** is installed **Microphone permission** has to be manually set in the respective Android device
 
 ---
 
@@ -39,6 +39,20 @@ Once the Hanashi App is installed Microphone permission has to be manually set i
 
 ---
 
+## 📥 Download & Install
+
+👉 **[Download APK](App/Hanashi.apk)**  
+
+### Installation steps:
+1. Download the APK from the link above.  
+2. Transfer it to your Android device (or open directly if downloaded there).  
+3. Enable **Install from Unknown Sources** in device settings.  
+4. Tap the APK to install.
+5. Before opening the app give the **micrphone permission externally** 🎤
+6. Open the app and your Assistant is at your assistance
+
+---
+
 ## Screenshots / Demo
 
 
@@ -47,7 +61,6 @@ Once the Hanashi App is installed Microphone permission has to be manually set i
 
 ### GIF (Animation Example)
 <img src="Screenshots/hello.gif" alt="Hello! greetings" width="200"/>   <img src="Screenshots/working.gif" alt="Working of App" width="200"/>
-
 
 
 ---
