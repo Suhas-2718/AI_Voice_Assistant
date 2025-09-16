@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var tts: TextToSpeech
     private lateinit var messageInput: EditText
     private val client = OkHttpClient()
-    private val flaskUrl = "http://192.168.0.172:5000/chat" // replace with your Flask IP
+    private val flaskUrl = "https://hanashi-6384.onrender.com/chat" // replace with your Flask IP
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
