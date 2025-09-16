@@ -3,7 +3,6 @@ from flask_cors import CORS
 from dotenv import load_dotenv
 import os
 import google.generativeai as genai
-import re
 from datetime import datetime
 
 
@@ -22,6 +21,14 @@ if not api_key:
 
 genai.configure(api_key=api_key)
 model = genai.GenerativeModel("gemini-1.5-flash")
+
+@app.route("/ask", methods=["POST"])
+def ask():
+    print("Request received!")   
+    data = request.json
+    print("User input:", data)
+    return jsonify({"reply": "Hello from backend!"})
+
 
 @app.route("/chat", methods=["POST"])
 def chat():
@@ -49,7 +56,7 @@ def chat():
         
         reply_text = getattr(response, "text", None)
         if reply_text:
-            reply_text = reply_text[:40]  
+            reply_text = reply_text[:40]    
             print("Final reply sent to client:", reply_text)  
 
         return jsonify({"reply": reply_text or "Sorry, I didn’t get that."})
