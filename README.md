@@ -87,7 +87,7 @@ cd AI_Voice_Assistant
 
 **Skanda Shanbhog** <br>
 📫 [LinkedIn](https://www.linkedin.com/in/skandashanbhog) <br>
-🌐 [GitHub](https://github.com/Suhas-2718)  <br>  
+🌐 [GitHub](https://github.com/skandashanbhog)  <br>  
 
  **Vinith Manjunath**   
  📫 [LinkedIn](https://www.linkedin.com/in/vinith-manjunath) <br>
