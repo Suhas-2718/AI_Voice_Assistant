@@ -4,9 +4,10 @@ An **AI-driven voice assistant** mobile application that allows users to interac
 
 ---
 
-## MAJOR UPDATE!
+## IMPORTANT INFORMATION!
 
-Once the **Hanashi App** is installed **Microphone permission** has to be manually set in the respective Android device
+To install the Hanashi App from the repository directly to device click on **"View raw "**, for more query refer the **Installation steps** below.<br>
+Once the **Hanashi App** is installed **Microphone permission** has to be manually set in the respective Android device.
 
 ---
 
@@ -78,12 +79,20 @@ git clone https://github.com/Suhas-2718/AI_Voice_Assistant.git
 cd AI_Voice_Assistant
 ```
 
-## 📌 Author
+## 📌 Authors
 
-**Suhas Manjunatha**  
-📫 [LinkedIn](https://www.linkedin.com/in/suhas-manjunatha21)  
+**Suhas Manjunatha**                                                                                           
+📫 [LinkedIn](https://www.linkedin.com/in/suhas-manjunatha21)       
+🌐 [GitHub](https://github.com/Suhas-2718)  <br>
+
+**Skanda Shanbhog** <br>
+📫 [LinkedIn](https://www.linkedin.com/in/skandashanbhog) <br>
+🌐 [GitHub](https://github.com/Suhas-2718)  <br>  
+
+ **Vinith Manjunath**   
+ 📫 [LinkedIn](https://www.linkedin.com/in/vinith-manjunath) <br>
 🌐 [GitHub](https://github.com/Suhas-2718)
-
+  
 ## 🌟 Show Your Support
 
 If you liked this project, consider giving it a ⭐ on GitHub or sharing it with others!
