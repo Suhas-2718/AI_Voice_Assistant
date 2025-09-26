@@ -81,17 +81,20 @@ cd AI_Voice_Assistant
 
 ## 📌 Authors
 
+ **Vinith Manjunath**   
+ 📫 [LinkedIn](https://www.linkedin.com/in/vinith-manjunath) <br>
+🌐 [GitHub](https://github.com/Suhas-2718)
+
+
+**Skanda Shanbhog** <br>
+📫 [LinkedIn](https://www.linkedin.com/in/skandashanbhog) <br>
+🌐 [GitHub](https://github.com/skandashanbhog)  <br> 
+
 **Suhas Manjunatha**                                                                                           
 📫 [LinkedIn](https://www.linkedin.com/in/suhas-manjunatha21)       
 🌐 [GitHub](https://github.com/Suhas-2718)  <br>
 
-**Skanda Shanbhog** <br>
-📫 [LinkedIn](https://www.linkedin.com/in/skandashanbhog) <br>
-🌐 [GitHub](https://github.com/skandashanbhog)  <br>  
 
- **Vinith Manjunath**   
- 📫 [LinkedIn](https://www.linkedin.com/in/vinith-manjunath) <br>
-🌐 [GitHub](https://github.com/Suhas-2718)
   
 ## 🌟 Show Your Support
 
