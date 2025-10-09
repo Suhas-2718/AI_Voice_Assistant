@@ -96,6 +96,3 @@ cd AI_Voice_Assistant
 
 
   
-## 🌟 Show Your Support
-
-If you liked this project, consider giving it a ⭐ on GitHub or sharing it with others!
